@@ -6,6 +6,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 > Я Junior Front-end Developer из Москвы.</h3>
 
+
+
 ### 🔨 ***Используемые языки и технологии:***
 <div>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </span>
@@ -27,10 +29,18 @@
 ### Изучаю
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> </span>
- 
+
+
 <h2>🔥 Статистика серий </h2>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Milenium666) 
+
+
+### ***Контакты:***
+<p align="left">
+<a href="mailto:epadundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kfifa3@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://t.me/milenium666" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Dimitry-blue?style=flat&logo=telegram"></a>
+</p>
  
 <!--
 **Milenium666/Milenium666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
