@@ -38,8 +38,8 @@
 
 ### ***Контакты:***
 <p align="left">
-<a href="mailto:epadundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kfifa3@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://t.me/milenium666" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Dimitry-blue?style=flat&logo=telegram"></a>
+<a href="mailto:epadundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-epadundev@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://t.me/milenium666" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Elena-blue?style=flat&logo=telegram"></a>
 </p>
  
 <!--
