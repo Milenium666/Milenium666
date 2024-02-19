@@ -7,8 +7,7 @@
 <p> Я Junior Front-end Developer из Москвы.</p>
 
 
-
-### 🔨 ***Используемые языки и технологии:***
+<h2>🔨 Используемые языки и технологии:</h2>
 <div>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </span>
