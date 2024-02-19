@@ -1,7 +1,8 @@
- <div id="header" align="center">
+ <div id="header" >
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZqaGllbHZxNTMxYzJnZm1qcm5jcmxhNzRlZ2VxN2lnaGljbTcxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
-<h1 align="center">Рада видеть, Я <a href="https://searchfilms.nomoredomains.rocks/" target="_blank">Елена!</a> 
+
+<h1>Рада видеть, Я <a href="https://searchfilms.nomoredomains.rocks/" target="_blank">Елена!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Я Junior Front-end Developer из Москвы.</h3>
 
@@ -20,8 +21,9 @@
  <span> <img width='60px' src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" /> </span>
  <span> <img width='60px' src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" /> </span>
  <span> <img width='60px' src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" /> </span>
- 
 </div>
+
+
 ### Изучаю
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> </span>
