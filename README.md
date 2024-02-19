@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="300"/>
+  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr.gif" width="300"/>
 </div>
 <h1 align="center">Рада видеть, Я<a href="https://searchfilms.nomoredomains.rocks/" target="_blank">Елена!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
