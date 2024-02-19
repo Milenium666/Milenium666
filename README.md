@@ -3,6 +3,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a Junior Front-end Developer from Moscow.</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **Milenium666/Milenium666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
