@@ -29,10 +29,9 @@
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> </span>
 
 
-<h2>🔥 Статистика серий </h2>
-
+<!-- <h2>🔥 Статистика серий </h2> 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Milenium666) 
-
+-->
 <h2>Контакты:</h2>
 <p align="left">
 <a href="mailto:epadundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-epadundev@gmail.com-blue?style=flat&logo=gmail"></a>
