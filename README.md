@@ -4,7 +4,7 @@
 
 <h1>Рада видеть, Я <a href="https://searchfilms.nomoredomains.rocks/" target="_blank">Елена!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p> Я Junior Front-end Developer из Москвы.</p>
+<p> Я Frontend Developer из Москвы.</p>
 
 
 <h2>🔨 Используемые языки и технологии:</h2>
